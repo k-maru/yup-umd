@@ -1,0 +1,16 @@
+{
+  "name": "yup-umd",
+  "version": "0.29.3",
+  "description": "UMD module of the yup.",
+  "mosulw": "dist/yup-umd.js",
+  "keywords": [
+    "yup"
+  ],
+  "author": "kazuhide maruyama",
+  "license": "MIT",
+  "devDependencies": {
+    "webpack": "^4.44.2",
+    "webpack-cli": "^3.3.12",
+    "yup": "0.29.3"
+  }
+}
